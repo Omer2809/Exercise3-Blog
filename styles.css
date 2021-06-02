@@ -40,6 +40,7 @@ h3 {
 .container {
   max-width: 1140px;
   margin: auto;
+  padding: 0 1rem;
 }
 
 .lead {
